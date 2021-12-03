@@ -1,9 +1,3 @@
-# Data-Science-Projects-In-Company
-
-**COMPANY**
-
-**DATA SCIENTIST PROJECT DOMAIN IDEAS**
-
 # DATA SCIENCE IN LOGISTIC DOMAIN
 
 1: Demand Forecasting

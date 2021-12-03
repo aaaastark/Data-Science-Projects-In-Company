@@ -1,10 +1,10 @@
 # Data-Science-Projects-In-Company
 
-COMPANY
+**COMPANY**
 
-DATA SCIENTIST PROJECT DOMAIN IDEAS
+**DATA SCIENTIST PROJECT DOMAIN IDEAS**
 
-DATA SCIENCE IN LOGISTIC DOMAIN
+# DATA SCIENCE IN LOGISTIC DOMAIN
 
 1: Demand Forecasting
 
@@ -16,7 +16,7 @@ DATA SCIENCE IN LOGISTIC DOMAIN
 
 5: Chatbots Customer Service Based
 
-DATA SCIENCE IN FINANCE
+# DATA SCIENCE IN FINANCE
 
 1: Sales Forecasting
 
@@ -32,7 +32,7 @@ DATA SCIENCE IN FINANCE
 
 7: Real Time Analytics
 
-DATA SCIENCE IN INSURANCE DOMAIN
+# DATA SCIENCE IN INSURANCE DOMAIN
 
 1: Insurance Rraud Claims
 
@@ -46,7 +46,7 @@ DATA SCIENCE IN INSURANCE DOMAIN
 
 6: Chatbots For Policy Recommendation
 
-DATA SCIENCE IN MANUFACTURING
+# DATA SCIENCE IN MANUFACTURING
 
 1: Preventive Maintenance and Fault Prediction
 
@@ -60,7 +60,7 @@ DATA SCIENCE IN MANUFACTURING
 
 6: Vision Use Cases(Number Plate Detection etc)
 
-DATA SCIENCE IN HEALTHCARE
+# DATA SCIENCE IN HEALTHCARE
 
 1: Data Science for Medical Imaging
 
